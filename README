@@ -1,3 +1,3 @@
-Working implementation of
-https://barricklab.org/twiki/bin/view/Lab/CommandLineBox
-to enable bulk transfer of files to and from Box
+Bulk transfer of files to and from Box using one of the following methods :
+   - https://barricklab.org/twiki/bin/view/Lab/CommandLineBox
+   - https://rclone.org/
